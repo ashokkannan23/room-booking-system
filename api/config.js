@@ -10,4 +10,4 @@ const serverURL = {
   }
 }
 
-module.exports = serverURL
+module.exports = serverURL.
